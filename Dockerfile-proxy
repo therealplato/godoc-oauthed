@@ -1,0 +1,3 @@
+FROM golang:1.7rc1-alpine
+#RUN go get github.com/elazarl/goproxy
+#golang.org/x/tools/cmd/godoc
